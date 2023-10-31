@@ -41,4 +41,10 @@ button {
     cursor: pointer;
     background: rgb(13, 84, 13);
     color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: #199b19;
 }
