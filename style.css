@@ -39,7 +39,7 @@ button {
     width: 8rem;
     padding: 1.4rem;
     cursor: pointer;
-    background: #6DCDFF;
+    background: rgb(109,205,255);
     color: white;
     border: none;
 }
