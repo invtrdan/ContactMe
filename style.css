@@ -7,7 +7,7 @@
 
 body {
     height: 100vh;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Rubik', sans-serif;
     display: grid;
     place-items: center;
 }
@@ -39,7 +39,7 @@ button {
     width: 8rem;
     padding: 1.4rem;
     cursor: pointer;
-    background: rgb(13, 84, 13);
+    background: #6DCDFF;
     color: white;
     border: none;
 }
